@@ -7,4 +7,5 @@ Git tracks changes 3
 Creating a new branch is quick and simple.
 creating a new branch test
 fixed the issue-001
+fixed the issue-002
 add new content in readme
